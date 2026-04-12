@@ -18,3 +18,4 @@ package-lock.json
 pnpm-lock.yaml
 .pnpm-store/
 .pnpm-debug.log
+config.bat
